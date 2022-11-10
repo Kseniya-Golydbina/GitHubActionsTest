@@ -7,6 +7,6 @@ public class MainTest {
 
     @Test
     void additional(){
-        assertEquals(2, main.add(1,1));
+        assertEquals(3, main.add(1,1));
     }
 }
