@@ -7,6 +7,10 @@ public class MainTest {
 
     @Test
     void additional(){
-        assertEquals(3, main.add(1,1));
+        assertEquals(2, main.add(1, 1));
+    }
+    @Test
+    void difference(){
+        assertEquals(1, main.diff(3, 2));
     }
 }
