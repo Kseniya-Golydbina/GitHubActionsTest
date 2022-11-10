@@ -13,4 +13,8 @@ public class TestCalculator {
     void difference(){
         assertEquals(1, main.diff(3, 2));
     }
+    @Test
+    void multiplication(){
+        assertEquals(4, main.increase(2, 2));
+    }
 }

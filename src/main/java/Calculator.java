@@ -8,4 +8,7 @@ public class Calculator {
     public int diff(int x, int y){
         return x-y;
     }
+    public int increase(int x, int y){
+        return x*y;
+    }
 }
