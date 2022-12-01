@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="MainTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-11-10T16:17:49" hostname="LAPTOP-29IACPCV" time="0.031">
-  <properties/>
-  <testcase name="additional()" classname="MainTest" time="0.028"/>
-  <testcase name="difference()" classname="MainTest" time="0.001"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
